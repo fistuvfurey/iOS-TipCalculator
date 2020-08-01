@@ -4,7 +4,7 @@
 
 Submitted by: **Aidan Furey**
 
-Time spent: **2.5** hours spent in total
+Time spent: **1.75** hours spent in total
 
 ## User Stories
 
